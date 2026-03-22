@@ -1,0 +1,6 @@
+{
+  "prompt": "Generate a new image. No text, no numbers, no labels, no signs, no annotations. A lone figure stands in the foreground, back to the viewer. Around them: empty space. No one faces them, no one clusters near them. In the middle distance: several figures, each at the center of their own small tight cluster — people turned inward toward each other, connected, orbiting each figure like satellites. In the far distance: those same cluster-centers are themselves just single dots inside massive, dense swarms — each center now swallowed by an even larger web of figures around them. The key visual: the foreground figure has ZERO connections visible. The middle figures each have a FEW. The background figures each have MANY. Every layer of depth multiplies the connections. It never stops. Style: surrealist oil painting, top-down perspective slightly tilted, cold blue-grey tones, single figures illuminated softly. No text. No numbers. No labels. No signs.",
+  "model": "DALL-E 3 via ChatGPT",
+  "paradox": "The Friendship Paradox",
+  "visual_logic": "A lone figure stands in empty space while middle-distance clusters grow denser toward the horizon. Every layer multiplies connections, making the viewer always the least-connected node — a spatial, inevitable mathematical trap."
+}
